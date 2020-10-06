@@ -1,0 +1,11 @@
+drupal/sites/*/settings*.php
+drupal/sites/*/services*.yml
+drupal/sites/*/files
+drupal/sites/*/private
+drupal/sites/simpletest
+drupal/core
+drupal/vendor
+drupal/*/settings*.php
+drupal/*/files
+drupal/*/private
+drupal/simpletest
