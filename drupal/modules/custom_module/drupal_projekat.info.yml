@@ -1,0 +1,5 @@
+name: MileLauda
+type: module
+description: "some Module"
+core_version_requirement: ^8 || ^9
+
