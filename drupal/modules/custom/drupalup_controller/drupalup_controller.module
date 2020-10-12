@@ -1,0 +1,10 @@
+<?php
+
+  function drupalup_controller_theme(){
+
+    return [
+      'article_list' => [
+        'variables' => ['records' => [], 'title' => '']
+      ]
+    ];
+  }

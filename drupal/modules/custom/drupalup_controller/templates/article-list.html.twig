@@ -1,0 +1,10 @@
+<h4>{{ title }}</h4>
+<ul>
+{% for record in records %}
+  <li>{{ record.field_title_value }}</li>
+  <li>{{ record.field_desciption_value }}</li>
+  <h5>{{ record.field_picture_alt }}</h5>
+
+{# <img src="{{ record.field_picture_alt }}" alt="" width="{{ record.field_picture_width }}" height="{{ record.field_picture_height }}">#}
+{% endfor %}
+</ul>
