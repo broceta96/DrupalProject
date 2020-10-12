@@ -2,9 +2,9 @@
 
   function drupalup_controller_theme(){
 
-    return array(
-      'article_list' => array(
-        'variables' => array('records' => array(), 'title' => '')
-      )
-    );
+    return [
+      'article_list' => [
+        'variables' => ['records' => [], 'title' => '']
+      ]
+    ];
   }

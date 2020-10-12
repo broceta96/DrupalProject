@@ -9,3 +9,4 @@ drupal/*/settings*.php
 drupal/*/files
 drupal/*/private
 drupal/simpletest
+.idea/workspace.xml
