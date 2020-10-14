@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fd5b5a7-e4f8-4e2c-8ce1-ab924ea6b983" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/modules/custom/drupalup_controller/drupalup_controller.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/modules/custom/drupalup_controller/drupalup_controller.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/modules/custom/drupalup_controller/templates/article-list.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/modules/custom/drupalup_controller/templates/article-list.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +78,8 @@
       <workItem from="1602142941768" duration="22554000" />
       <workItem from="1602227390501" duration="14480000" />
       <workItem from="1602486821445" duration="8757000" />
+      <workItem from="1602578332934" duration="2716000" />
+      <workItem from="1602681236731" duration="292000" />
     </task>
     <servers />
   </component>
