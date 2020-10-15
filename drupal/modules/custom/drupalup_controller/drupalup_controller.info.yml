@@ -1,4 +1,4 @@
-name: Drupal Up Controller with Template
+name: Drupal Up Controller
 description: Our nice module with controller and template
 type: module
 core_version_requirement: ^8.8 || ^9
