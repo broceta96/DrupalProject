@@ -1,0 +1,16 @@
+{
+    "require": {
+        "mtdowling/jmespath.php": {
+            "version": "v2.4.0",
+            "url": "https://github.com/jmespath/jmespath.php/archive/2.4.0.zip"
+        },
+        "flow/jsonpath": {
+            "version": "v0.5.0",
+            "url": "https://github.com/FlowCommunications/JSONPath/archive/0.5.0.zip"
+        },
+        "querypath/QueryPath": {
+            "version": "v3.0.5",
+            "url": "https://github.com/technosophos/querypath/archive/3.0.5.zip"
+        }
+    }
+}
