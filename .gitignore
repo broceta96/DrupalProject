@@ -10,9 +10,4 @@ drupal/*/files
 drupal/*/private
 drupal/simpletest
 .idea/workspace.xml
-drupal/modules/admin_toolbar
-drupal/modules/embed
-drupal/modules/entity
-drupal/modules/entity_browser
-drupal/modules/entity_embed
-drupal/modules/search_api
+
